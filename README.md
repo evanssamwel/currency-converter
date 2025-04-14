@@ -1,12 +1,33 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 💱 Currency Converter
 
-Currently, two official plugins are available:
+A sleek and fast currency converter built using **React** + **Vite**. It fetches real-time exchange rates from a public API and allows users to convert between different currencies.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ⚙️ Features
 
-## Expanding the ESLint configuration
+- 🔁 Real-time currency conversion
+- 🌍 Support for multiple global currencies
+- 📱 Responsive design
+- ⚡ Built with Vite for lightning-fast development
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+## 🚀 Getting Started
+
+Follow these steps to get the project running on your local machine.
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (v16 or later)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+
+---
+🌐 API
+
+This project uses a free currency exchange API (e.g., ExchangeRate API, Frankfurter, etc.)
+
+Make sure to replace or add your API key in the project if required.
+This project is open source and available under the MIT License.
